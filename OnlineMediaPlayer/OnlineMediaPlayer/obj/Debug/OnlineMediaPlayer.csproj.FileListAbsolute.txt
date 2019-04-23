@@ -1,0 +1,15 @@
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\bin\Debug\OnlineMediaPlayer.exe.config
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\bin\Debug\OnlineMediaPlayer.exe
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\bin\Debug\OnlineMediaPlayer.pdb
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.Form1.resources
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.Properties.Resources.resources
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.exe
+C:\Users\zahra\source\repos\OnlineMediaPlayer\OnlineMediaPlayer\obj\Debug\OnlineMediaPlayer.pdb
